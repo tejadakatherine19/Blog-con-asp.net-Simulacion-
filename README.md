@@ -1,0 +1,2 @@
+# Blog-con-asp.net-Simulacion-
+Este es un pequeño ejemplo de aplicacion web sencilla, utilizando tecnologias como Asp.Net, Bootstrap 5, HTML5 Y CSS3.                     En esta aplicacion se hace una pequeña simulación de un Blog, en la cual el usuario ingresa su nombre, y el comentario que desee sobre cualquier tema                     luego esos datos se guardan en un archivo de texto, el cual se encuentra almacenado en una de las carpetas del proyecto.
